@@ -83,3 +83,9 @@ sqlmap尝试注入，注入点是在这里，因此前面的分析是错误的
 正确的思路应该是全局搜索，找到URL传参的地方，例如$_POST、\$GET，然后进行SQL注入尝试，直接访问这个URL也是可以的，不需要验证Referer字段
 
 <img src="./img/12.png">
+
+
+
+### 参考
+
+https://blog.csdn.net/qq_50589021/article/details/120313912
