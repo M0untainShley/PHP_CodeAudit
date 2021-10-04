@@ -1,8 +1,10 @@
 ### 项目说明
 
-此项目用来记录自己学习PHP代码审计的分析过程，并且会附带源代码
+- 此项目用来记录自己学习PHP代码审计的分析过程，并且会附带源代码，如果能帮助到你，不胜荣幸^ ^
 
+- 图片是存在的，因为国内的网络问题图片显示不出来，图片使用的相对路径，可以下载项目到本地进行复现或者阅读
 
+  
 
 ### 环境
 
@@ -32,5 +34,4 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 
 ### 代码执行/RCE
 
-
-
+[zzzphp代码执行漏洞](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/3_RCE/1_zzzphp/zzzphp%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E.md)
