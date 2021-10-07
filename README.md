@@ -49,3 +49,9 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 #### XSS
 
 [骑士CMS 存储型XSS](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/4_XSS/1_74CMS%20%E5%AD%98%E5%82%A8%E5%9E%8BXSS/74%EF%BC%88%E9%AA%91%E5%A3%AB%EF%BC%89CMS%20%E5%AD%98%E5%82%A8%E5%9E%8BXSS%E6%BC%8F%E6%B4%9E.md)
+
+
+
+#### CSRF
+
+[DiscuzX 2.5 CSRF脱库](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/5_CSRF/1_DiscuzX2.5CSRF%E6%BC%8F%E6%B4%9E/DiscuzX_2.5_CSRF%E8%84%B1%E5%BA%93%E6%BC%8F%E6%B4%9E.md)
