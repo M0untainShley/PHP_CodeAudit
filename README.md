@@ -6,6 +6,22 @@
 
   
 
+#### 图片无法显示问题
+
+Windows，打开hosts文件，添加一下内容即可
+
+```cmf
+151.101.184.133    assets-cdn.github.com
+151.101.184.133    raw.githubusercontent.com
+151.101.184.133    gist.githubusercontent.com
+151.101.184.133    cloud.githubusercontent.com
+151.101.184.133    camo.githubusercontent.com
+```
+
+
+
+
+
 ### 环境
 
 IDE：PhpStorm
