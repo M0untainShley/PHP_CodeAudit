@@ -38,6 +38,10 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 
 #### 文件安全
 
+##### 文件包含
+
+[MetInfo V4.0 文件包含漏洞](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/2_File%20Security/1_%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/MetInfoV4.0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/MetInfoV4.0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E.md)
+
 
 
 #### 代码执行/RCE
