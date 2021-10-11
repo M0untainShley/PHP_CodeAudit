@@ -34,7 +34,7 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 
 ### 思维导图
 
-待更新...
+<img src="./img/1.png">
 
 
 
@@ -50,13 +50,25 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 
 
 
-
-
 #### 文件安全
 
 ##### 文件包含
 
 [MetInfo V4.0 文件包含漏洞](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/2_File%20Security/1_%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB/MetInfoV4.0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/MetInfoV4.0%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E.md)
+
+
+
+##### 文件下载/读取
+
+[phpcms V9.6.1 任意文件读取](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/2_File%20Security/2_%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%26%E8%AF%BB%E5%8F%96/phpcmsV9.6.1%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/phpcms9.6.1%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E.md)
+
+
+
+##### 文件上传
+
+
+
+##### 文件删除
 
 
 
@@ -75,3 +87,29 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 #### CSRF
 
 [DiscuzX 2.5 CSRF脱库](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/5_CSRF/1_DiscuzX2.5CSRF%E6%BC%8F%E6%B4%9E/DiscuzX_2.5_CSRF%E8%84%B1%E5%BA%93%E6%BC%8F%E6%B4%9E.md)
+
+
+
+#### 命令执行
+
+
+
+#### 变量覆盖
+
+
+
+#### 逻辑漏洞
+
+
+
+#### 会话漏洞
+
+
+
+#### 二次注入漏洞
+
+
+
+#### 框架漏洞
+
+可以参考此项目：https://github.com/Mochazz/ThinkPHP-Vuln
