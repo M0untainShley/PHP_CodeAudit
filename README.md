@@ -102,6 +102,8 @@ PHP集成环境：PhpStudy，https://www.xp.cn/download.html
 
 #### 逻辑漏洞
 
+[逻辑漏洞](https://github.com/M0untainShley/PHP_CodeAudit/blob/master/7_%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E/%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E.md)
+
 
 
 #### 会话漏洞
